@@ -8,7 +8,7 @@
 }
 
 body {
-    background: var(--light-grayish-cyan);
+    background: hsl(185, 41%, 84%);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -22,14 +22,14 @@ header {
 }
 
 main {
-    background: var(--white);
+    background: hsl(0, 0%, 100%);
     padding: 2rem;
     border-radius: 25px 25px 0px 0px;
     max-width: 30rem;
 }
 
 label {
-    color: var(--dark-grayish-cyan);
+    color: hsl(186, 14%, 43%);
     margin-bottom: .375rem;
 }
 
@@ -38,7 +38,7 @@ input {
     border: 0;
     font-size: 1.5rem;
     width: 100%;
-    color: var(--very-dark-cyan);
+    color: hsl(183, 100%, 15%);
 }
 
 input::-webkit-outer-spin-button,

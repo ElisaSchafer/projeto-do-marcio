@@ -21,7 +21,7 @@
     }
 
     form,
-    .resultados {
+    .results {
         width: 100%;
     }
 
@@ -29,7 +29,7 @@
         margin-bottom: 2.5rem;
     }
 
-    .resultados {
+    .results {
         padding: 2.5rem;
         display: flex;
         flex-direction: column;
@@ -37,7 +37,7 @@
         margin-top: 0;
     }
 
-    .resultados div p:last-child {
+    .results div p:last-child {
         font-size: 3rem;
     }
 

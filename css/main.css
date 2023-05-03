@@ -44,7 +44,7 @@
 }
 
 .input-boxes input[type="button"].button-selected {
-    background: var(--strong-cyan);
+    background: hsl(172, 67%, 45%);
 }
 
 .input-boxes input[type="number"] {
@@ -97,7 +97,7 @@
 
 .results button {
     width: 100%;
-    padding-block: .5625;
+    padding-block: 0.7rem;
     font-size: 1.25rem;
     line-height: 1.875rem;
     text-transform: uppercase;
